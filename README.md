@@ -1,4 +1,4 @@
-# EMTech-Hackathon-Workshop
+# EMTech-Hackathon-Workshop October 20, 2019
 Learn how to predict Bitcoin prices using an LSTM network!\
 Beginner friendly explanation of what an LSTM is and how to use Keras API to implement them.\
 
